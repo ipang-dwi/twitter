@@ -4,7 +4,7 @@ Aplikasi sederhana berbasis web dengan PHP untuk mendapatkan tweet dari akun twi
 Dalam program sederhana ini, bisa kamu gunakan untuk mempelajari :
 - cara kerja API
 - twitter API
-- parsing dan encode data json
+- parsing dan encode-decode data json
 - pemrograman web dengan PHP
 
 Feel free to reach me on :
