@@ -16,10 +16,10 @@ function tweet($nama){
 	require_once('TwitterAPIExchange.php');
     /** Set access tokens here - see: https://dev.twitter.com/apps/ **/
     $settings = array(
-    'oauth_access_token' => "440652357-AlSQKFvdtXqoBMGgptvNfQnuvOyc6GvF8CkfU0rj",
-    'oauth_access_token_secret' => "mPD4865CJ538W58d3zG5m2YSBU5Q1qBj7oBlzVh38LWya",
-    'consumer_key' => "5ZjCpHYkVixdQuCMJ7e7fw",
-    'consumer_secret' => "g1pTxij91IK8gXnx4lwGcomS7vOc2RRafyLXSE"
+    'oauth_access_token' => "OAUTH_ACCESS_TOKEN_KAMU",
+    'oauth_access_token_secret' => "OAUTH_ACCESS_TOKEN_SECRET_KAMU",
+    'consumer_key' => "CONSUMER_KEY_KAMU",
+    'consumer_secret' => "CONSUMER_SECRET_KAMU"
     );
     $url = "https://api.twitter.com/1.1/statuses/user_timeline.json";
     $requestMethod = "GET";
