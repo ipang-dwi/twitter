@@ -1,6 +1,3 @@
-<?php
-
-?>
 <form method="post" target="_self">
 	<input type="text" name="nama" id="nama" />
 	<input type="submit" name="OK" id="OK" value="OK, liat tweet.."/>
