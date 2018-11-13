@@ -7,6 +7,8 @@ Dalam program sederhana ini, bisa kamu gunakan untuk mempelajari :
 - parsing dan encode-decode data json
 - pemrograman web dengan PHP
 
+> Demo langsung saja ke TKP https://lab.firstplato.com/twitter
+
 Feel free to reach me on :
 - https://www.firsplato.com
 - https://www.facebook.com/firstplato
